@@ -1,0 +1,31 @@
+ 
+****************************************
+Report : area
+Design : TOF
+Version: R-2020.09
+Date   : Wed May  4 05:18:57 2022
+****************************************
+
+Library(s) Used:
+
+    slow (File: /RAID2/COURSE/iclab/iclabta01/umc018/Synthesis/slow.db)
+    USERLIB (File: /home/RAID2/COURSE/iclab/iclab075/Midterm_Project/04_MEM/SRAM_64_128.db)
+
+Number of ports:                          407
+Number of nets:                         13760
+Number of cells:                        12993
+Number of combinational cells:          11134
+Number of sequential cells:              1790
+Number of macros/black boxes:               4
+Number of buf/inv:                       1922
+Number of references:                     118
+
+Combinational area:             166569.483275
+Buf/Inv area:                    20567.131833
+Noncombinational area:          125408.607491
+Macro/Black Box area:           825833.312500
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:               1117811.403266
+Total area:                 undefined
+1
