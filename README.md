@@ -1,7 +1,7 @@
 # 2022-Spring-ICLab
 
-** Original Score: 85.581 ** \
-** Final Score : A+ **\
+**Original Score: 85.581** \
+**Final Score : A+**
 | Lab  | Score | Rank | 1de pass|
 | -------| ------ | ------ | ------ |
 | Lab1   | 85     | 76 | O |
