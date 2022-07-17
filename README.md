@@ -17,5 +17,5 @@
 | Lab11  | 96.17  | 13	| O|
 | Lab12  | 100    | 1 	| O|
 | Midtern Project  | 68.02  | 8| X|
-| Final   Project  | 90.11  | 66,33,2,2,39| O|
+| Final   Project  | 90.11  | 2| O|
 | Bonus Point | +5 |
